@@ -15,7 +15,9 @@ author: rdclark
 
 ---
 
-We recently sat down with HackHands Expert, [Richard Clark](http://hackhands.com/rdclark "Richard Clark"), who is a Senior Curriculum Developer at [Kaazing](http://http://www.kaazing.com). Richard has taught for Apple and Hewlett-Packard, written immersive simulations, developed high-performance web applications for the Fortune 100, and published Apple iOS applications, so we were excited to hear what he had to say about Swift, Apple's newest programming language.
+
+
+We recently sat down with HackHands Expert, [Richard Clark](http://hackhands.com/rdclark "Richard Clark"), who is a Senior Curriculum Developer at [Kaazing](http://http://www.kaazing.com). Richard has taught for Apple and Hewlett-Packard, written immersive simulations, developed high-performance web applications for the Fortune 100, and published Apple iOS applications, so we were excited to hear what he had to say about Swift, Apple's newest programming language.
 
 Here is what Richard told us about Swift. Check out our video interview with him below for more great insights that you should know about Swift.
 
@@ -31,7 +33,7 @@ Objective-C is built like a layer cake, starting with the C programming language
 
 **3) How does Swift integrate with Xcode?**
 
-Whenever Apple releases new APIs, technologies and languages, they roll them up to Xcode, so Swift is integrated in Xcode. Although Xcode is still in a developer only beta, they're remarkably open with Developer Program. This means you can actually [register](https://developer.apple.com/news/?id=07112014a) for free and get the developer version of Xcode. This will get you access to the tools and the current information and then if you want to start publishing applications, the first level registration is $99, which gets you some tech support for any incidents and the ability to publish applications.
+Whenever Apple releases new APIs, technologies and languages, they roll them up to Xcode, so Swift is integrated in Xcode. Although Xcode is still in a developer only beta, they're remarkably open with Developer Program. This means you can actually [register](https://developer.apple.com/news/?id=07112014a) for free and get the developer version of Xcode. This will get you access to the tools and the current information and then if you want to start publishing applications, the first level registration is $99, which gets you some tech support for any incidents and the ability to publish applications.
 
 **4) Is Swift going to replace/kill Objective-C?**
 
@@ -49,4 +51,4 @@ The syntax of Swift looks very C like, with parentheses within functions for par
 
 Some developers are saying they're going to wait a year to let Swift settle out and for the language to shift. Apple is using Swift themselves, so Swift is not going away. It may be best to get started early to understand it well, even if the language is subject to change. A good way to get started could be writing new features and new applications in Swift.
 
-Already started learning or writing applications in Swift? Get live programming support for Swift and many other programming languages on [HackHands](http://www.hackhands.com).
+Already started learning or writing applications in Swift? Get live programming support for Swift and many other programming languages on [HackHands](http://www.hackhands.com).
