@@ -13,8 +13,7 @@ author: balinterdi
 
 ---
 
-This is an article about promises
-===
+This is an article about promises===
 
 Promises are a relatively new way of handling asynchronous operations in a readable, composable and robust way. With the exception of IE11, [they are built into all modern browsers](http://caniuse.com/#feat=promises).
 
